@@ -19,3 +19,5 @@ Establecer el nombre de usuario y correo electrónico:
 Copiar
 git config --global user.name "Tu Nombre"
 git config --global user.email "tuemail@example.com"
+
+.
